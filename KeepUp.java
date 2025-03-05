@@ -1,8 +1,8 @@
 import java.awt.event.KeyEvent;
 
-public class PracticeTest extends GameEngine {
+public class KeepUp extends GameEngine {
     public static void main(String[] args) {
-        createGame(new PracticeTest());
+        createGame(new KeepUp());
     }
 
     /* --- GAME --- */
